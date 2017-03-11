@@ -1,0 +1,3 @@
+My project is a music coach. Meaning that it take a piece the user practices from and records the user's version of that piece. Then it compares the differences between the two recordings. 
+
+My project finds the frequencies of an audio file and compares the frequencies between two audio files, then graphs this difference while playing the user's version of the piece. It uses the pyAudio, aubio, numpy, and matplotlib libraries. You will have to download pyaudio and aubio, but numpy and matplotlib should come with your version of python.
